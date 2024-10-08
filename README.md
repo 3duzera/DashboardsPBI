@@ -1,3 +1,3 @@
 # Relatório de vendas feito com Sample de Power BI
 
-![Relatório](https://ibb.co/dK52SJg)
+![Relatório](https://raw.githubusercontent.com/3duzera/Relatorios_Pbi/refs/heads/main/Screenshot_2.png)
